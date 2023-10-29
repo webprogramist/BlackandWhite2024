@@ -1,0 +1,248 @@
+body {
+
+background-size: 120%;
+background-repeat: no-repeat;
+
+}    
+a {display: table;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 0 10px;
+margin-top: 6em;
+margin-left: 2.5em;
+  }
+  .icon{list-style: none;
+    display: table;
+    color: black;
+    font-family: Helvetica;
+  }
+  
+.text4 {
+    position:absolute;
+    top: 22.5em;
+    left: 33em;
+    color: white;
+    font-size: 20px;
+}
+.photo16 {
+    position: absolute;
+    top:10em;
+    left:10em;
+}
+.photo17 {
+    position: absolute;
+    top:10em;
+    left:40em;
+}
+.photo18 {
+    position: absolute;
+    top:10em;
+    left:70em;
+}
+
+.photo10
+ {width: 200px;
+transition-property: all;
+
+}
+.photo10:hover:hover {
+transform: scale(1.4,1.4);
+
+}
+.photo10 {
+transition: 6s;
+}
+
+.photo11
+ {width: 200px;
+transition-property: all;
+
+}
+.photo11:hover:hover {
+transform: scale(1.4,1.4);
+
+}
+.photo11 {
+transition: 6s;
+}
+
+.photo12
+ {width: 200px;
+transition-property: all;
+
+}
+.photo12:hover:hover {
+transform: scale(1.4,1.4);
+
+}
+.photo12 {
+transition: 6s;
+}
+.photo10 {
+    position: absolute;
+    top: 35em;
+    left: 10em;
+}
+.photo11 {
+    position: absolute;
+    top: 35em;
+    left: 40em;
+}
+.photo12 {
+    position: absolute;
+    top: 35em;
+    left: 70em;
+}
+.photo13
+ {width: 200px;
+transition-property: all;
+
+}
+.photo13:hover:hover {
+transform: scale(1.3,1.3);
+
+}
+.photo13 {
+transition: 6s;
+}
+
+.photo14
+ {width: 200px;
+transition-property: all;
+
+}
+.photo14:hover:hover {
+transform: scale(1.3,1.3);
+
+}
+.photo14 {
+transition: 6s;
+}
+
+.photo15
+ {width: 200px;
+transition-property: all;
+
+}
+.photo15:hover:hover {
+transform: scale(1.3,1.3);
+
+}
+.photo15 {
+transition: 6s;
+}
+.text1 {
+    position:absolute;
+    top: 42.5em;
+    left: 33em;
+    color: white;
+    font-size: 20px;
+}
+.photo13 {
+    position: absolute;
+    top: 60em;
+    left: 10em;
+}
+.photo14 {
+    position: absolute;
+    top: 60em;
+    left: 40em;
+}
+.photo15 {
+    position: absolute;
+    top: 60em;
+    left: 70em;}
+
+    .photo16
+ {width: 200px;
+transition-property: all;
+
+}
+.photo16:hover:hover {
+transform: scale(1.4,1.4);
+
+}
+.photo16 {
+transition: 6s;
+}
+
+.photo17
+ {width: 200px;
+transition-property: all;
+
+}
+.photo17:hover:hover {
+transform: scale(1.4,1.4);
+
+}
+.photo17 {
+transition: 6s;
+}
+
+.photo18
+ {width: 200px;
+transition-property: all;
+
+}
+.photo18:hover:hover {
+transform: scale(1.4,1.4);
+
+}
+.photo18 {
+transition: 6s;
+}
+.text2 {
+    position: absolute;
+    top: 1em;
+    left: 33em;
+    color: white;
+    font-size: 20px;
+}
+.rectangle {
+    position: absolute;
+    top:0em;
+    left:0em;
+    font-size: medium;
+}
+.rectangle2 {
+    position: absolute;
+    top:0em;
+    right:0em;
+    font-size: medium;
+}
+.insta {position: absolute;
+    font-weight: bolder;
+  right: 4.4em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 20px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}
+
+          .twitter {position: absolute;
+            font-weight: bolder;
+          right: 6.7em;
+          top: 2em;
+          cursor: pointer;
+              background-color: transparent;
+              height: 20px;
+              width: 50px;
+              font-size: 1.5em;
+                  border-color: black;
+                  border-radius: 10px;}
+
+ .whatsapp {position: absolute;
+    font-weight: bolder;
+  right: 9em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 20px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}              

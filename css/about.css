@@ -1,0 +1,100 @@
+body {
+    background-color: rgb(45, 45, 45); 
+}
+.text8 {
+    position: absolute;
+    top: 13em;
+    left: 2em;
+    color: #ffffff;
+}
+.text9 {
+position: absolute;
+top: 7em;
+left: 32em;
+}
+.f {
+    position: absolute;
+    top: 0.5em;
+    right:  13em;
+}
+.e {
+    position: absolute;
+    top: 1em; 
+    left: 2em;
+}
+.insta {position: absolute;
+    font-weight: bolder;
+  right: 1em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 20px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}
+
+          .twitter {position: absolute;
+            font-weight: bolder;
+          right: 3.5em;
+          top: 2em;
+          cursor: pointer;
+              background-color: transparent;
+              height: 20px;
+              width: 50px;
+              font-size: 1.5em;
+                  border-color: black;
+                  border-radius: 10px;}
+
+ .whatsapp {position: absolute;
+    font-weight: bolder;
+  right: 6em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 20px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}    
+          .z {
+            position: absolute;
+            top: 11em;
+            right: 1em;
+            width: 224px;
+            height: 180px;
+          }            
+          .v {
+            position: absolute;
+            top: 28em;
+            right: 1em;
+            width: 224px;
+            height: 180px;
+            animation-name: inherit;
+            animation-duration: 5s;
+            animation-timing-function: ease-in-out;
+          }
+          .logo 
+          {position: absolute;
+                 top: 1em;
+                 left: 34em;
+                 line-height: 80%;
+                 color: #ffffff;}
+                 .b {
+                    position: absolute;
+                    top:23em;
+                    right:3.5em;
+                    color: white;
+                 }
+                 .p {
+                    position: absolute;
+                    top: 40em;
+                    right: 3em;
+                    color: #ffffff;
+                 }
+                 .l {position: absolute;
+                width: 171px;
+              height: 71px;
+            top: 3em;
+          left: 42em;}
+         
